@@ -128,12 +128,6 @@ li{
     font-weight: 300;
 }
 
-.i-potfolio{
-    background-color: #e9e6e9;
-    display: flex;
-    flex-direction: column;
-}
-
 .rodape{
     background-color: rgb(57, 5, 92);
     height: 300px;
